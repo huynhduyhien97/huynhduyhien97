@@ -26,11 +26,11 @@
 ## 🇬🇧 English
 
 - 🔭 I'm currently looking for a new **full-time opportunity** — remote or on-site, I'm flexible either way. If my background looks like a fit for what you're hiring for, I'd love to hear from you.
-- 💻 I also take on freelance projects on **Upwork** — [check out my profile](#) 👀 *(link coming soon)*
-- 🧑‍💻 4+ years building backend & full-stack products with **Laravel, Next.js, NestJS, FastAPI**, mostly for clients in Japan, South Korea, and the UK.
-- 🤖 Comfortable pairing with **AI coding agents** (Cursor, Antigravity, Codex...) and applying a **Spec-Driven Development** workflow — write the spec/technical design, let AI draft the code, then review and refine.
+- 💻 I also take on freelance projects on **Upwork** — [check out my profile](https://www.upwork.com/freelancers/~0187d6f9f8b5c9622d?mp_source=share) 👀
+- 🧑‍💻 6+ years building backend & full-stack products with **Laravel, Next.js, NestJS, FastAPI**.
+- 🤖 Comfortable pairing with **AI coding agents** (Claude Code, Cursor, Antigravity, Codex...) and applying a **Spec-Driven Development** workflow — write the spec/technical design, let AI draft the code, then review and refine.
 - 🌱 Currently expanding my skillset into **Java**.
-- ⚡ Fun fact: almost 30, but still young at heart 😄 (you can probably tell from the hand-over-mouth smile in my photos). I work out a little, love a good game of football or badminton, and I'm a huge travel addict ✈️.
+- ⚡ Fun fact: almost 30, but still young at heart 🤭. I work out a little, love a good game of football or badminton, and I'm a huge travel addict ✈️.
 
 ### 📫 Let's connect
 
@@ -45,11 +45,11 @@
 ## 🇻🇳 Tiếng Việt
 
 - 🔭 Hiện tại mình đang tìm kiếm một công việc **full-time** mới — remote hay on-site đều được, khá linh hoạt. Nếu kinh nghiệm của mình phù hợp với tiêu chí tuyển dụng của bạn, đừng ngần ngại liên hệ nhé!
-- 💻 Ngoài ra mình cũng nhận thêm job trên **Upwork** — [ghé qua profile của mình xem thử](#) 👀 *(link sẽ cập nhật sau)*
-- 🧑‍💻 4+ năm kinh nghiệm xây dựng sản phẩm backend & full-stack với **Laravel, Next.js, NestJS, FastAPI**, chủ yếu cho khách hàng ở Nhật Bản, Hàn Quốc và Anh.
-- 🤖 Quen thuộc với việc dùng **AI coding agent** (Cursor, Antigravity, Codex...) và áp dụng quy trình **Spec-Driven Development** — viết spec/technical design, để AI sinh code, sau đó review và tinh chỉnh lại.
+- 💻 Ngoài ra mình cũng nhận thêm job trên **Upwork** — [ghé qua profile của mình xem thử](https://www.upwork.com/freelancers/~0187d6f9f8b5c9622d?mp_source=share) 👀
+- 🧑‍💻 6+ năm kinh nghiệm xây dựng sản phẩm backend & full-stack với **Laravel, Next.js, NestJS, FastAPI**.
+- 🤖 Quen thuộc với việc dùng **AI coding agent** (Claude Code, Cursor, Antigravity, Codex...) và áp dụng quy trình **Spec-Driven Development** — viết spec/technical design, để AI sinh code, sau đó review và tinh chỉnh lại.
 - 🌱 Đang tự học mở rộng thêm **Java**.
-- ⚡ Fun fact: dù sắp chạm mốc 30 nhưng tâm hồn vẫn còn "trẻ trâu" lắm 😄 (nhìn ảnh cười che miệng là biết liền). Có tập gym/workout xíu, mê đá bóng với cầu lông, và đặc biệt là "cuồng" đi du lịch ✈️.
+- ⚡ Fun fact: dù sắp chạm mốc 30 nhưng tâm hồn vẫn còn "trẻ trâu" lắm 🤭. Có tập gym/workout xíu, mê đá bóng với cầu lông, và đặc biệt là "cuồng" đi du lịch ✈️.
 
 ### 📫 Liên hệ mình qua
 
@@ -65,5 +65,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" alt="GitHub streak" />
 </p>
